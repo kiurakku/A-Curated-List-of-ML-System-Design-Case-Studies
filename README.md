@@ -3,14 +3,16 @@
 ![Repo Visibility](https://img.shields.io/badge/visibility-Public-blue)
 ![Repository Type](https://img.shields.io/badge/type-Fork-lightgrey)
 ![Last Commit](https://img.shields.io/github/last-commit/kiurakku/A-Curated-List-of-ML-System-Design-Case-Studies)
-![Issues](https://img.shields.io/github/issues/kiurakku/A-Curated-List-of-ML-System-Design-Case-Studies)
+[![Issues](https://img.shields.io/github/issues/kiurakku/A-Curated-List-of-ML-System-Design-Case-Studies?style=flat-square&logo=github)](https://github.com/kiurakku/A-Curated-List-of-ML-System-Design-Case-Studies/issues)
 ![License](https://img.shields.io/github/license/kiurakku/A-Curated-List-of-ML-System-Design-Case-Studies)
+
+**Connect:** [![Author](https://img.shields.io/badge/GitHub-kiurakku-181717?style=flat-square&logo=github)](https://github.com/kiurakku) [![Telegram](https://img.shields.io/badge/Telegram-@SyntacticSugar-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SyntacticSugar) [![Email](https://img.shields.io/badge/Email-yanginero%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:yanginero@outlook.com)
 
 This repository contains a curated collection of 300+ case studies from over 80 companies, detailing practical applications and insights into machine learning (ML) system design. The contents are organized to help you easily find relevant case studies based on industry or specific ML use cases.
 
 ## Project Overview
 
-$(@{defaultBranchRef=; description=This repository contains a curated collection of 300+ case studies from over 80 companies, detailing practical applications and insights into machine learning (ML) system design. The contents are organized to help you easily find relevant case studies based on industry or specific ML use cases. ; isFork=True; isPrivate=False; licenseInfo=; name=A-Curated-List-of-ML-System-Design-Case-Studies; primaryLanguage=; repositoryTopics=System.Object[]; visibility=PUBLIC}.name) is maintained as a **Polyglot** project focused on reliable engineering practices, readable architecture, and practical delivery.
+**A-Curated-List-of-ML-System-Design-Case-Studies** — This repository contains a curated collection of 300+ case studies from over 80 companies, detailing practical applications and insights into machine learning (ML) system design. The contents are organized to help you easily find relevant case studies based on industry or specific ML use cases. Stack: **Polyglot**.
 
 ## Tags
 
@@ -39,13 +41,13 @@ engineering, software, automation
 
 ## Quick Start
 
-`ash
+```bash
 git clone https://github.com/kiurakku/A-Curated-List-of-ML-System-Design-Case-Studies.git
 cd A-Curated-List-of-ML-System-Design-Case-Studies
 # Install dependencies (project-specific)
 # Build or run tests
 # Start the project
-`
+```
 
 ## Configuration
 
